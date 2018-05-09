@@ -1,9 +1,9 @@
 class Contactor < Formula
 	desc "Manage contacts from the command line via the macOS Contacts framework."
 	homepage "https://github.com/kettle/Contactor"
-	url "https://github.com/kettle/Contactor/releases/download/1.2.0/Contactor-1.2.0.tar.gz"
-	sha256 "d393dd74b7e7ce79f9cf28d8dc51a702e578d9f5bfc22f9c57de6861ab4308fb"
-	version "1.2.0"
+	url "https://github.com/kettle/Contactor/releases/download/1.2.1/Contactor-1.2.1.tar.gz"
+	sha256 "1084e508a8ba73379f5ad11e05829a20c32f296de869811f6b3aab8e1fe5cf1b"
+	version "1.2.1"
 
 	depends_on "curl"
 
